@@ -1,5 +1,7 @@
 💳 Bank Account Management System
+
 📄 Abstract
+
 The Bank Account Management System (BAMS) is a Java-based software application built to manage bank customer accounts securely and efficiently. This project simulates the core functionalities of an actual banking environment and offers a reliable digital alternative to manual banking processes.
 
 Its goal is to simplify and automate banking operations—such as deposits, withdrawals, account creation, and fund transfers—through an interactive user interface and backend system built with Java, MySQL, and Apache Server Pages (JSP).
